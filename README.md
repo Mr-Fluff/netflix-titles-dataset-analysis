@@ -69,6 +69,9 @@ The project demonstrates the following results:
 If you want to contribute to this project, please fork the repository and create a pull request with your changes.
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 © 2024 Srinivasa Sai Damarla
