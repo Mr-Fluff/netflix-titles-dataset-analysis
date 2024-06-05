@@ -40,7 +40,7 @@ You can explore the Jupyter notebooks in the `notebooks` folder for data cleanin
 - [Recommendation_System.ipynb](notebooks/Recommendation_System.ipynb)
 
 ### Running Recommendation Systems
-To run the recommendation systems using the Python scripts in the `src` folder, ensure you have the cleaned dataset in the `data` folder and the saved autoencoder model in the `src` folder.
+To run the recommendation systems using the Python scripts in the `src` folder, ensure you have the cleaned dataset in the `data` folder.
 
 For example, to use the CountVectorizer based recommender:
 
